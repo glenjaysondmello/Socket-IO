@@ -16,20 +16,20 @@ Command-line access for running the program
 
 # Installation
 Clone the Repository:
-#
 git clone https://github.com/glenjaysondmello/Socket-IO.git
 #
 cd socket-IO
-
+#
 Use the following commands to compile both the server and client programs:
-
+#
 javac socket_s/server.java 
 #
 javac socket_c/client.java
-    
+#   
 socket_c/client.java: The client-side code
+#
 socket_s/server.java: The server-side code
-
+#
 ![sock1](https://github.com/user-attachments/assets/24b24da3-ed39-4527-afe5-f2605a509575)
 ![sock3](https://github.com/user-attachments/assets/8247526a-56c5-4fee-96e8-875c8fd4bfd5)
 
